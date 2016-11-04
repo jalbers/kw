@@ -1,2 +1,3 @@
-var x = document.getElementById("200") ;
-x.innerHTML="11:00"
+/* computer generated code */
+var x = document.getElementById("js2") ;
+x.innerHTML="1478264400000"

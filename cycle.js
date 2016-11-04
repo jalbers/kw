@@ -1,2 +1,3 @@
-var x = document.getElementById("500") ;
-x.innerHTML="1"
+/* computer generated code */
+var x = document.getElementById("cycle") ;
+x.innerHTML="0000"
